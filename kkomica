@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title100</title>
+</head>
+
+<body>
+    <h1>Hey! Apple!</h1>
+    <a href="http://homu.komica.org/12/index.htm">歡樂惡搞</a>
+    <br>
+    <img width="400" src="http://homu.komica.org/12/src/1476903932911.jpg" alt="garbage ">
+    <br>
+    <p>QWQ1</p>
+    <p>QWQ2</p>
+    <p>QWQ3</p>
+    <ul type="square">
+        <li>item1</li>
+        <li>item2</li>
+        <li>item3</li>
+        <li>item4</li>
+    </ul>
+    <a href="About CS Learning.html">CS Learning</a>
+    <table>
+        <thead>
+            <tr>
+                <td>Height</td>
+                <td>Weight</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="2">150</td>
+                <!-- <td>45</td> -->
+            </tr>
+            <tr>
+                <td rowspan="2">160</td>
+                <td>65</td>
+            </tr>
+            <tr>
+                <!-- <td>175</td> -->
+                <td>80</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>21331</td>
+                <td>321654</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
